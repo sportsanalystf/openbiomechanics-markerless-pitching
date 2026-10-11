@@ -1,0 +1,19 @@
+{
+  "validation": "IK joint angles compared with known synthetic angles",
+  "frames_compared": 101,
+  "motion_file_angles_in_degrees": true,
+  "shoulder_elevation": {
+    "mae_deg": 0.00035803010396884163,
+    "rmse_deg": 0.0005327446863832834,
+    "max_absolute_error_deg": 0.002370090914623616
+  },
+  "elbow_flexion": {
+    "mae_deg": 0.0012590034523963622,
+    "rmse_deg": 0.001877519918456547,
+    "max_absolute_error_deg": 0.00666591583627983
+  },
+  "outputs": {
+    "comparison_csv": "C:\\Users\\xdy6sg\\Documents\\OpenBiomechanics-OpenSim\\outputs\\synthetic_arm_ik_comparison.csv",
+    "ground_truth_csv": "C:\\Users\\xdy6sg\\Documents\\OpenBiomechanics-OpenSim\\outputs\\synthetic_arm_ground_truth.csv"
+  }
+}
