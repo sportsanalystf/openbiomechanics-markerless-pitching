@@ -1,4 +1,4 @@
-﻿from pathlib import Path
+from pathlib import Path
 import csv
 import matplotlib.pyplot as plt
 
@@ -79,4 +79,3 @@ plt.close(fig)
 print(f"Frames plotted: {len(rows)}")
 print(f"Joint-angle plot: {angles_path}")
 print(f"Error plot: {errors_path}")
-
