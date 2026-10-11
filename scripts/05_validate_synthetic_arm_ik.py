@@ -1,9 +1,9 @@
-﻿from pathlib import Path
+from pathlib import Path
 import csv
 import json
 import math
 
-project = Path.home() / "Documents" / "OpenBiomechanics-OpenSim"
+project = Path(__file__).resolve().parents[1]
 motion_path = project / "outputs" / "synthetic_arm_ik.mot"
 comparison_path = project / "outputs" / "synthetic_arm_ik_comparison.csv"
 report_path = project / "outputs" / "synthetic_arm_ik_validation.json"

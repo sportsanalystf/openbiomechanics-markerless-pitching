@@ -1,9 +1,9 @@
-﻿from pathlib import Path
+from pathlib import Path
 import json
 import math
 import opensim as osim
 
-project = Path.home() / "Documents" / "OpenBiomechanics-OpenSim"
+project = Path(__file__).resolve().parents[1]
 model_path = project / "models" / "arm26.osim"
 output_path = project / "synthetic_data" / "synthetic_arm_motion.trc"
 
