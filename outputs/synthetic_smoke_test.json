@@ -1,0 +1,18 @@
+{
+  "python_version": "3.13.16 (tags/v3.13.16:cbc944f, Sep 30 2026, 19:17:50) [MSC v.1944 64 bit (AMD64)]",
+  "platform": "Windows-11-10.0.26200-SP0",
+  "opensim_version": "version 4.6-2026-06-22-85aaf64, build date 18:27:42 Jun 22 2026",
+  "numpy_version": "2.5.4",
+  "trc_file": "C:\\Users\\xdy6sg\\Documents\\OpenBiomechanics-OpenSim\\synthetic_data\\synthetic_markers.trc",
+  "rows_loaded": 5,
+  "columns_loaded": 3,
+  "time_range_seconds": [
+    0.0,
+    0.04
+  ],
+  "marker_labels": [
+    "Marker1",
+    "Marker2",
+    "Marker3"
+  ]
+}
