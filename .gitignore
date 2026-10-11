@@ -5,6 +5,8 @@ __pycache__/
 data/
 raw_data/
 
+/openbiomechanics/
+
 # OpenSim runtime logs and diagnostic artifacts
 models/opensim.log
 *_ik_marker_errors.sto
