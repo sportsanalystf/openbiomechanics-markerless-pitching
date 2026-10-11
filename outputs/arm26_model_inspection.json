@@ -1,0 +1,47 @@
+{
+  "model": "C:\\Users\\xdy6sg\\Documents\\OpenBiomechanics-OpenSim\\models\\arm26.osim",
+  "body_count": 2,
+  "coordinate_count": 2,
+  "markers": [
+    {
+      "name": "r_acromion",
+      "location_in_ground_m": [
+        -0.01256,
+        0.04,
+        0.17
+      ]
+    },
+    {
+      "name": "r_humerus_epicondyle",
+      "location_in_ground_m": [
+        -0.012545,
+        -0.2974,
+        0.2
+      ]
+    },
+    {
+      "name": "r_radius_styloid",
+      "location_in_ground_m": [
+        -0.012545,
+        -0.53299,
+        0.252
+      ]
+    }
+  ],
+  "coordinates": [
+    {
+      "name": "r_shoulder_elev",
+      "default_value": 0.0,
+      "range_min": -1.57079633,
+      "range_max": 3.14159265,
+      "motion_type": "1"
+    },
+    {
+      "name": "r_elbow_flex",
+      "default_value": 0.0,
+      "range_min": 0.0,
+      "range_max": 2.26892803,
+      "motion_type": "1"
+    }
+  ]
+}

@@ -1,0 +1,17 @@
+{
+  "model": "C:\\Users\\xdy6sg\\Documents\\OpenBiomechanics-OpenSim\\models\\arm26.osim",
+  "trc_file": "C:\\Users\\xdy6sg\\Documents\\OpenBiomechanics-OpenSim\\synthetic_data\\synthetic_arm_motion.trc",
+  "frames": 101,
+  "markers": [
+    "r_acromion",
+    "r_humerus_epicondyle",
+    "r_radius_styloid"
+  ],
+  "frame_rate_hz": 100.0,
+  "duration_seconds": 1.0,
+  "coordinate_inputs": [
+    "r_shoulder_elev",
+    "r_elbow_flex"
+  ],
+  "validation": "OpenSim successfully re-read the generated TRC"
+}

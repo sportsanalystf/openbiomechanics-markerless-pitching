@@ -4,3 +4,7 @@ __pycache__/
 *.log
 data/
 raw_data/
+
+# OpenSim runtime logs and diagnostic artifacts
+models/opensim.log
+*_ik_marker_errors.sto
