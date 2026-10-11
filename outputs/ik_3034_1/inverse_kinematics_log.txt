@@ -1,0 +1,7 @@
+Traceback (most recent call last):
+  File "C:\Users\xdy6sg\Documents\OpenBiomechanics-OpenSim\scripts\run_pitch_inverse_kinematics.py", line 47, in <module>
+    result = ik.run()
+  File "C:\Users\xdy6sg\Documents\OpenBiomechanics-OpenSim\.venv\Lib\site-packages\opensim\tools.py", line 3969, in run
+    return _tools.InverseKinematicsTool_run(self)
+           ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~^^^^^^
+RuntimeError: std::exception in 'bool OpenSim::InverseKinematicsTool::run()': InverseKinematicsTool Failed, please see messages window for details...

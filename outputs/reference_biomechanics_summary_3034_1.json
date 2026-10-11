@@ -1,0 +1,51 @@
+{
+  "session_pitch": "3034_1",
+  "rows": 726,
+  "start_time_s": 0.0,
+  "end_time_s": 2.0139,
+  "duration_s": 2.0139,
+  "estimated_sampling_hz": 357.14285714285717,
+  "events": [
+    {
+      "event": "Peak knee height",
+      "column": "pkh_time",
+      "time_s": 0.75
+    },
+    {
+      "event": "Foot plant (10%)",
+      "column": "fp_10_time",
+      "time_s": 1.4306
+    },
+    {
+      "event": "Foot plant (100%)",
+      "column": "fp_100_time",
+      "time_s": 1.4444
+    },
+    {
+      "event": "Maximum external rotation",
+      "column": "MER_time",
+      "time_s": 1.5667
+    },
+    {
+      "event": "Ball release",
+      "column": "BR_time",
+      "time_s": 1.6
+    },
+    {
+      "event": "Maximum internal rotation",
+      "column": "MIR_time",
+      "time_s": 1.6417
+    }
+  ],
+  "plots": [
+    "reference_pelvis_angle_3034_1.png",
+    "reference_torso_angle_3034_1.png",
+    "reference_torso_pelvis_angle_3034_1.png",
+    "reference_rear_hip_angle_3034_1.png",
+    "reference_rear_knee_angle_3034_1.png",
+    "reference_shoulder_angle_3034_1.png",
+    "reference_elbow_angle_3034_1.png",
+    "reference_wrist_angle_3034_1.png"
+  ],
+  "reference_csv": "reference_joint_angles_3034_1.csv"
+}

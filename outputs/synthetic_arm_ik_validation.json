@@ -13,7 +13,7 @@
     "max_absolute_error_deg": 0.00666591583627983
   },
   "outputs": {
-    "comparison_csv": "C:\\Users\\xdy6sg\\Documents\\OpenBiomechanics-OpenSim\\outputs\\synthetic_arm_ik_comparison.csv",
-    "ground_truth_csv": "C:\\Users\\xdy6sg\\Documents\\OpenBiomechanics-OpenSim\\outputs\\synthetic_arm_ground_truth.csv"
+    "comparison_csv": ".\\outputs\\synthetic_arm_ik_comparison.csv",
+    "ground_truth_csv": ".\\outputs\\synthetic_arm_ground_truth.csv"
   }
 }

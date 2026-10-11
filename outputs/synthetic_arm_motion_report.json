@@ -1,6 +1,6 @@
 {
-  "model": "C:\\Users\\xdy6sg\\Documents\\OpenBiomechanics-OpenSim\\models\\arm26.osim",
-  "trc_file": "C:\\Users\\xdy6sg\\Documents\\OpenBiomechanics-OpenSim\\synthetic_data\\synthetic_arm_motion.trc",
+  "model": ".\\models\\arm26.osim",
+  "trc_file": ".\\synthetic_data\\synthetic_arm_motion.trc",
   "frames": 101,
   "markers": [
     "r_acromion",
